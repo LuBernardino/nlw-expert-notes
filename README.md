@@ -3,7 +3,9 @@
 
 </br>
 
-Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat 2024 utilizando React, TypeScript, Tailwind e a SpeechRecognition API. O NLW Expert Notes tem como objetivo, tem funções como salvar uma nota em texto ou gravar um áudio que será convertido para texto automaticamente.
+Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat 2024 utilizando React, TypeScript, Tailwind e a SpeechRecognition API. O NLW Expert Notes tem como objetivo guardar suas anotações.
+
+Tem funções como salvar uma nota em texto ou gravar um áudio que será convertido para texto automaticamente.
 
 ## 🔖 Layout
 
