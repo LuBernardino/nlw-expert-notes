@@ -1,30 +1,21 @@
-# React + TypeScript + Vite
+![Descrição da imagem](src/assets/nlw_Expert.png)
+<h1 align="center">NLW Expert (React) 🗒 </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+</br>
 
-Currently, two official plugins are available:
+Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat 2024 utilizando React, TypeScript, Tailwind e a SpeechRecognition API. O NLW Expert Notes tem como objetivo, tem funções como salvar uma nota em texto ou gravar um áudio que será convertido para texto automaticamente.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔖 Layout
 
-## Expanding the ESLint configuration
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/qCXm8KEaOvUeSIccPBlpCX/NLW-expert-%E2%80%A2-Notes-(Community)?type=design&node-id=102%3A1489&mode=design&t=NgtPW7u6Vr2CpdaY-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+</br>
 
-- Configure the top-level `parserOptions` property like this:
+![Descrição da imagem](src/assets/Home.png)
+![Descrição da imagem](src/assets/Home(States).png)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+![Descrição da imagem](src/assets/Dialog(New).png)
+![Descrição da imagem](src/assets/Dialog(Filled).png)
+![Descrição da imagem](src/assets/Dialog(New)(States).png)
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Feito com ♥ by [@LuanaBernardino](https://www.linkedin.com/in/lubernardino/) :wave: 
