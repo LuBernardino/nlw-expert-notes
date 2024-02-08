@@ -1,4 +1,4 @@
-![Descrição da imagem](src/assets/nlw_Expert.png)
+![Descrição da imagem](src/assets/nlw_expert.png)
 <h1 align="center">NLW Expert (React) 🗒 </h1>
 
 </br>
